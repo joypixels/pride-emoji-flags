@@ -3,7 +3,7 @@
 A simple repository by [JoyPixels](https://www.joypixels.com) to provide a fully-inclusive set of pride emoji flags.
 
 ## what's included?
-All 17 flags in SVG and PNG (512px) format within the repository, as well as attached to [each release](https://github.com/joypixels/pride-emoji-flags/releases) 
+All 18 flags in SVG and PNG (512px) format within the repository, as well as attached to [each release](https://github.com/joypixels/pride-emoji-flags/releases) 
 in zip format for easy download.
 
 ## how can I use them?
